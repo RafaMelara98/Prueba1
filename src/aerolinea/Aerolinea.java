@@ -93,6 +93,7 @@ public class Aerolinea {
     public static void ImpresionMenu(){
         System.out.println("1- Agregar gente");
         System.out.println("2- Mostrar gente");
+        System.out.println("3- Comprar boleto");
         System.out.print("Su opcion:\t");
     }
     
